@@ -314,7 +314,7 @@ export default function App(props) {
 
   useEffect(() => {
 
-    document.body.style.zoom = "100%";
+    document.body.style.zoom = "80%";
     scroll();
   });
   return (
